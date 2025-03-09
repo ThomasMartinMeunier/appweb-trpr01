@@ -12,4 +12,4 @@ Toute mention et description d’utilisation d’une IA:
 
 URL du repo GitHub: https://github.com/ThomasMartinMeunier/appweb-trpr01.git
 
-URL du site deployé: 
+URL du site deployé: https://thomasmartinmeunier.github.io/appweb-trpr01/
